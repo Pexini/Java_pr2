@@ -5,6 +5,6 @@ public class Main {
         int sale = 20; // кол-во руб за 1 мил.
         int your_sale = coast / sale;
 
-    System.out.println("Your miles per 1 trip : " + your_sale + " руб");
-        }
+        System.out.println("Your miles per 1 trip : " + your_sale + " руб");
     }
+}
