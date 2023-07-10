@@ -3,8 +3,8 @@ public class Main {
 
         int cost = 13_686; // переменная для ввода стоимости билета.
         int sale = 20; // кол-во бонусных мил за 1 руб.
-        int your_sale = cost / sale;
+        int yourSale = cost / sale;
 
-        System.out.println("Вам начисленно : " + your_sale + " бонусных миль");
+        System.out.println("Вам начисленно : " + yourSale + " бонусных миль");
     }
 }
